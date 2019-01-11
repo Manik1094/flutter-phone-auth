@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "946399441934",
+    "firebase_url": "https://flutter-demo-4e06f.firebaseio.com",
+    "project_id": "flutter-demo-4e06f",
+    "storage_bucket": "flutter-demo-4e06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946399441934:android:ed8151f6968b18cc",
+        "android_client_info": {
+          "package_name": "com.example.firebasephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946399441934-08u8go9jtkn0v5im7v0e9j7vl92f4tup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasephone",
+            "certificate_hash": "7e8e479bcbae878795cec97de0be7e8843157035"
+          }
+        },
+        {
+          "client_id": "946399441934-mtcj77f8clv3nng2a8egfcapm4ubeq2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMT7TB3qq0bkcMHuvD1GDELPwqjdhmHZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946399441934-mtcj77f8clv3nng2a8egfcapm4ubeq2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946399441934:android:082be3b2a2ff3adb",
+        "android_client_info": {
+          "package_name": "manik.fdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946399441934-q4vbl9notjt0ghgemei355kpjpfr4353.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manik.fdemo",
+            "certificate_hash": "7e8e479bcbae878795cec97de0be7e8843157035"
+          }
+        },
+        {
+          "client_id": "946399441934-ubmck4l4enbrtjthnb60jsfplgtsn99a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manik.fdemo",
+            "certificate_hash": "c0367f976f474b02d25e79d452dd3124a5ce8df9"
+          }
+        },
+        {
+          "client_id": "946399441934-mtcj77f8clv3nng2a8egfcapm4ubeq2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMT7TB3qq0bkcMHuvD1GDELPwqjdhmHZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946399441934-mtcj77f8clv3nng2a8egfcapm4ubeq2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
